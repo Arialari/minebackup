@@ -1,0 +1,37 @@
+timestamps:
+  login: 1550584944972
+  logout: 1550584865416
+  lastteleport: 1550586299226
+ipAddress: 25.35.124.119
+lastlocation:
+  world: HelloAriWorld
+  x: 104.89362568314407
+  y: 70.0
+  z: 194.64124483025242
+  yaw: 259.75348
+  pitch: -3.4500084
+logoutlocation:
+  world: HelloAriWorld
+  x: -180.5
+  y: 72.0
+  z: -623.5
+  yaw: 270.86108
+  pitch: 9.749829
+godmode: false
+afk: false
+money: '333'
+homes:
+  pasture:
+    world: HelloAriWorld
+    x: 52.66302922693148
+    y: 68.0
+    z: 135.28171331264662
+    yaw: -186.64526
+    pitch: 38.099934
+  home:
+    world: HelloAriWorld
+    x: 91.40501865322763
+    y: 70.0
+    z: 200.42922848523705
+    yaw: 179.95453
+    pitch: 42.14987

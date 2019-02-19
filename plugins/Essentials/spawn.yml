@@ -1,0 +1,29 @@
+spawns: 
+  default: 
+    world: HelloAriWorld
+    x: 94.11118539219103
+    y: 70.0
+    z: 202.07172675497162
+    yaw: 47.804688
+    pitch: 44.249943
+  "?": 
+    world: HelloAriWorld
+    x: 118.74733387352536
+    y: 71.0
+    z: 196.5115931866832
+    yaw: 267.7047
+    pitch: 17.549942
+  "±â¸®": 
+    world: HelloAriWorld
+    x: 94.62944833042877
+    y: 70.0
+    z: 201.36380751357282
+    yaw: 43.30359
+    pitch: 47.99994
+  sheep: 
+    world: HelloAriWorld
+    x: 52.471833023572486
+    y: 68.0
+    z: 134.8420198676184
+    yaw: -186.64536
+    pitch: 39.29993

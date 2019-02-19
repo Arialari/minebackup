@@ -1,0 +1,23 @@
+lastlocation:
+  world: HelloAriWorld
+  x: 173.30000001192093
+  y: 59.0
+  z: -292.30000001192093
+  yaw: -335.09213
+  pitch: 5.1002593
+timestamps:
+  login: 1550585371621
+  logout: 1550584865416
+  lastteleport: 1550508796915
+  jail: 0
+ipAddress: 25.43.137.203
+logoutlocation:
+  world: HelloAriWorld
+  x: -188.75089767212455
+  y: 71.0
+  z: -623.2078886834793
+  yaw: 270.86108
+  pitch: 9.749829
+godmode: false
+afk: false
+jailed: false
